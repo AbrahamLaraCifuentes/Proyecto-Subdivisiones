@@ -9,6 +9,9 @@
     "build": "npm install --build-from-source",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+  "node": "18.x"
+  },
   "keywords": [
     "backend",
     "subdivisiones",
