@@ -9,11 +9,15 @@
     "build": "npm install --build-from-source",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["backend", "subdivisiones", "nodejs"],
+  "keywords": [
+    "backend",
+    "subdivisiones",
+    "nodejs"
+  ],
   "author": "Tu Nombre",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
